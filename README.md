@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 Full Stack Web Developer
 
 - 🔭 I’m currently working on refining and expanding my coding knowledge
